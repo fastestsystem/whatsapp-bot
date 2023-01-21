@@ -1,7 +1,7 @@
 {
-  "timeZone": "Asia/Jakarta",
+  "timeZone": "Asia/Karachi",
   "language": "en",
-  "ownerNumber": ["6285163651710", "558188263143", "6281311850715"],
+  "ownerNumber": ["923091388832"],
   "readStatus": false,
   "readMessage": false,
   "antiCall": {
@@ -12,7 +12,7 @@
   "user": {
     "limit": 30
   },
-  "prefix": "!#.",
-  "name": "𝙷ɪɢᴀꜱʜɪʏᴀᴍᴀ 𝙺ᴏʙᴇɴɪ",
-  "footer": "arugaz/whatsapp-bot"
+  "prefix": "",
+  "name": "Fastest System Bot",
+  "footer": "fastest-system.com"
 }
